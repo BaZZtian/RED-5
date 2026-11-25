@@ -10,7 +10,7 @@ An unofficial PS5 port project for **Star Wars: Rogue Squadron II – Rogue Lead
 
 ## Availability
 
-**Not available yet.** There is no verified, installable PS5 release from this project. Development test programs are not a playable game and are not offered as downloads.
+**In development. No PS5 release is available yet.** When a verified PS5 build is ready, look for it on the [RED:5 Releases page](https://github.com/BaZZtian/RED-5/releases). Development test programs are not a playable game and are not offered as downloads.
 
 The separate upstream [Red Two v1.2 release](https://github.com/gminustwo/red_two/releases/tag/v1.2) provides Windows and Linux packages. Those packages are **not PS5 applications**. Follow upstream's own requirements and instructions if you want its PC version.
 
